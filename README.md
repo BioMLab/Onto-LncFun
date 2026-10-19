@@ -1,4 +1,4 @@
-# RNAFunGOA
+# Onto-LncFun
 
 Gene Ontology (GO) function prediction for long non-coding RNAs (lncRNAs).
 
